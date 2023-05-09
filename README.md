@@ -3,7 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E75C00FF&center=true&vCenter=true&width=440&lines=This+is+a+cat+repository.+.+." alt="Typing SVG" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=rekyryan&color=red&style=plastic&label=Folks+Views)
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=rekyryan&color=red&style=plastic&label=Folks+Views">
+  </a>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekyryan&count_private=true&show_icons=true&theme=codeSTACKr&bg_color=00000000)
 
