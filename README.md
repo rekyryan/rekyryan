@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekyryan&count_private=true&bg_color=0d1117&hide_border=true&show_icons=true&theme=codeSTACKr)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rekyryan&background=0d1117&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rekyryan&count_private=true&background=0d1117&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 <!--
 **rekyryan/rekyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
